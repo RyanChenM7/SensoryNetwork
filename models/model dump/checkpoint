@@ -1,0 +1,6 @@
+model_checkpoint_path: "!AccelX.ckpt-999"
+all_model_checkpoint_paths: "!AccelX.ckpt-599"
+all_model_checkpoint_paths: "!AccelX.ckpt-699"
+all_model_checkpoint_paths: "!AccelX.ckpt-799"
+all_model_checkpoint_paths: "!AccelX.ckpt-899"
+all_model_checkpoint_paths: "!AccelX.ckpt-999"
