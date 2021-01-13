@@ -26,7 +26,7 @@ After the data that the network generated was graphed out, I was disappointed by
      style="float: left; margin-right: 10px;" />
 
 
-It had a sporadic shape with thousands of jumps between negative and positive values because. I made many fixes to try to correct this, and the most prominent (and obvious one) was to normalize the true data.
+It had a sporadic shape with thousands of jumps between negative and positive values, and I guessed that it was because the training data was all over the place. I made many fixes to try to correct this, and the most prominent (and obvious one) was to normalize the true data.
 
 After these changes, it outputted a glitched and strange, yet beautiful graph:
 <img src="https://media.discordapp.net/attachments/717459028246266006/745928071466713118/unknown.png?width=1326&height=675"
