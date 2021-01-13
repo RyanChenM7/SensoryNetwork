@@ -10,7 +10,9 @@ Training samples include hundreds of manually scraped datasets from an iPhone 6,
 
 </br>
 
-Short progress story: A few weeks in I trained a network model with manually scraped accelerometer data.
+</br>
+
+**Short progress story**: A few weeks in I trained a network model with manually scraped accelerometer data.
 
 This is what the true values look like:
 <img src="https://media.discordapp.net/attachments/717459028246266006/745927414198042684/unknown.png?width=1228&height=676"
@@ -40,7 +42,7 @@ Through the help of online AI communities and sheer determination, after 3 weeks
 
 </br>
 
-Gallery: Here are examples of Gyroscope data files that finished network models have produced.
+**Gallery**: Here are examples of Gyroscope data files that finished network models have produced.
 
 Gyro X
 <img src="https://media.discordapp.net/attachments/624971522422997042/746905995476992082/unknown.png?width=1133&height=675"
