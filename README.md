@@ -12,6 +12,27 @@ Training samples include hundreds of manually scraped datasets from an iPhone 6,
 
 </br>
 
+**Gallery**: Here are examples of Gyroscope data files that finished network models have produced.
+
+Gyro X
+<img src="https://media.discordapp.net/attachments/624971522422997042/746905995476992082/unknown.png?width=1133&height=675"
+     alt=""
+     style="float: left; margin-right: 10px;" />
+
+Gyro Y
+<img src="https://media.discordapp.net/attachments/624971522422997042/746906096131899433/unknown.png?width=1088&height=675"
+     alt=""
+     style="float: left; margin-right: 10px;" />
+
+Gyro Z
+<img src="https://media.discordapp.net/attachments/624971522422997042/746906275740123167/unknown.png?width=1152&height=675"
+     alt=""
+     style="float: left; margin-right: 10px;" />
+
+</br>
+
+</br>
+
 **Short progress story**: A few weeks in I trained a network model with manually scraped accelerometer data.
 
 These are what the true values looked like:
@@ -39,22 +60,3 @@ Through the help of online AI communities and sheer determination, after 3 weeks
      alt=""
      style="float: left; margin-right: 10px;" />
 
-
-</br>
-
-**Gallery**: Here are examples of Gyroscope data files that finished network models have produced.
-
-Gyro X
-<img src="https://media.discordapp.net/attachments/624971522422997042/746905995476992082/unknown.png?width=1133&height=675"
-     alt=""
-     style="float: left; margin-right: 10px;" />
-
-Gyro Y
-<img src="https://media.discordapp.net/attachments/624971522422997042/746906096131899433/unknown.png?width=1088&height=675"
-     alt=""
-     style="float: left; margin-right: 10px;" />
-
-Gyro Z
-<img src="https://media.discordapp.net/attachments/624971522422997042/746906275740123167/unknown.png?width=1152&height=675"
-     alt=""
-     style="float: left; margin-right: 10px;" />
