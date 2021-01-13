@@ -55,7 +55,7 @@ After these changes, it outputted a glitched and strange, yet beautiful graph:
      style="float: left; margin-right: 10px;" />
 
 
-Through the help of online AI communities and sheer determination, after 3 weeks it was ouputting accelerometer values that are indistinguishiably similar to real data, as far as my eyes could tell:
+Through the help of online AI communities and sheer determination, after 3 more weeks it was ouputting accelerometer values that are indistinguishiably similar to real data, as far as my eyes could tell:
 <img src="https://media.discordapp.net/attachments/624971522422997042/746904655883272352/unknown.png?width=1195&height=676"
      alt=""
      style="float: left; margin-right: 10px;" />
