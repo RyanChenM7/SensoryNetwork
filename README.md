@@ -1,6 +1,6 @@
 # SensoryNetwork
 
-Generates spatial sensory data that accurately mimics what a mobile device might produce when being held and used.
+<ins> Generates spatial sensory data that accurately mimics what a mobile device might produce when being held and used. </ins>
 
 This is a modified fork of an [existing network model](https://github.com/nesl/sensegen), where 50+ deprecated components were upgraded to Tensorflow 3.
 
