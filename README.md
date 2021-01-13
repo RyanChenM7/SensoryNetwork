@@ -6,7 +6,7 @@ This is a modified fork of an [existing network model](https://github.com/nesl/s
 
 Gained insight and learned the math behind more advanced network structures and components such as RNN’s, GRU’s, and LSTM, from trying to understand the [ARXIV document](https://arxiv.org/abs/1701.08886).
 
-Training samples include hundreds of manually scraped datasets from an iPhone 6, and data from countless online sources.
+Training samples include hundreds of manually scraped datasets from an iPhone 6, and other data from countless online sources.
 
 </br>
 
