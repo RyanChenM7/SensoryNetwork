@@ -14,7 +14,7 @@ Training samples include hundreds of manually scraped datasets from an iPhone 6,
 
 **Short progress story**: A few weeks in I trained a network model with manually scraped accelerometer data.
 
-This is what the true values look like:
+These are what the true values look like:
 <img src="https://media.discordapp.net/attachments/717459028246266006/745927414198042684/unknown.png?width=1228&height=676"
      alt=""
      style="float: left; margin-right: 10px;" />
